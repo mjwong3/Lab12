@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab 11</string>
+    <string name="Update" translatable="false">Update</string>
 </resources>
